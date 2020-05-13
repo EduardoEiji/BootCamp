@@ -1,0 +1,8 @@
+{
+  "name": "BootCamp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/EduardoEiji/BootCamp",
+  "author": "Eduardo Eiji <edu_eiji@hotmail.com>",
+  "license": "MIT"
+}
